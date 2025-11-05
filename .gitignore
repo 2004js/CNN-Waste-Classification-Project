@@ -1,0 +1,19 @@
+# Ignore model and dataset files
+*.h5
+*.hdf5
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and checkpoints
+logs/
+checkpoints/
